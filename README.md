@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/phamnhutnpx">
+    <a href="https://github.com/NguyenDuyNoa">
         <img
             src="https://readme-typing-svg.herokuapp.com?lines=My+fullname+is+Nguyen+Duy+Noa;I'm+a+Front-end+web+developer&center=true&width=500&height=50">
     </a>
