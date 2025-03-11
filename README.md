@@ -19,7 +19,7 @@
 # GitHub Stats :
  <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center' }}>
             <img src="https://github-readme-stats.vercel.app/api?username=NguyenDuyNoa&theme=radical&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub stats" />
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenDuyNoa&theme=radical&hide_border=false" alt="GitHub streak" />
+<!--             <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenDuyNoa&theme=radical&hide_border=false" alt="GitHub streak" /> -->
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDuyNoa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top languages" />
         </div>
     
