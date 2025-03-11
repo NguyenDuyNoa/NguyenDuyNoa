@@ -21,7 +21,7 @@
   display: 'flex', 
   justifyContent: 'center', 
   alignItems: 'center',
-  flexDirection: 'column',
+  flexDirection: 'row',
   width: '100%',
   gap: '1rem'
 }}>
@@ -30,15 +30,10 @@
     alt="GitHub stats" 
     style={{ width: '100%', height: 'auto' }}
   />
-<!--   <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenDuyNoa&theme=radical&hide_border=false" 
-    alt="GitHub streak" 
-    style={{ width: '100%', height: 'auto' }}
-  /> -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenDuyNoa&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" 
     alt="Top languages" 
-    style={{ width: '100%', height: 'auto' }}
+    style={{ width: '80%', height: 'auto' }}
   />
 </div>
     
